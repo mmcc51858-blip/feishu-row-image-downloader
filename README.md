@@ -6,7 +6,7 @@
 
 在多维表格的插件入口打开“自定义插件”，点击“新增插件”。运行地址填写：
 
-https://altaskc97-cloud.github.io/feishu-row-image-downloader/
+https://mmcc51858-blip.github.io/feishu-row-image-downloader/
 
 名称可填写“本行套图下载”。如果入口只要求运行地址，填写地址即可。
 
